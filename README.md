@@ -1,4 +1,4 @@
-# mael_app
+# mael
 
 A new Flutter project.
 

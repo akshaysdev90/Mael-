@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358764917927",
+    "project_id": "mael-2edb9",
+    "storage_bucket": "mael-2edb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358764917927:android:20a5929cd31f3e587fd782",
+        "android_client_info": {
+          "package_name": "com.devcorp.mael"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358764917927-bhgo5bj3rjmqa05irc8cj4fnusn28gig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2mIKUjKUdaJ7hc8_WlFtZHlDwE0KLZUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358764917927-bhgo5bj3rjmqa05irc8cj4fnusn28gig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

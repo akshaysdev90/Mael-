@@ -1,8 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mael_app">
+    package="com.devcorp.mael">
    <application
-        android:label="mael_app"
-        android:icon="@mipmap/ic_launcher">
+        android:label="mael"
+        android:icon="@mipmap/launcher_icon"
+        android:usesCleartextTraffic="true">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
